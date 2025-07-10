@@ -1,0 +1,66 @@
+Linux Foundation meetings involve participation by industry competitors, and it is the intention of the Linux Foundation to conduct all of its activities in accordance with applicable antitrust and competition laws. It is therefore extremely important that attendees adhere to meeting agendas, and be aware of, and not participate in any activities that are prohibited under applicable US state, federal, or foreign antitrust and competition laws.
+
+Examples of types of actions that are prohibited at Linux Foundation meetings and in connection with Linux Foundation activities are described in the Linux Foundation Antitrust Policy available at Antitrust Policy | Linux Foundation . If you have questions about these matters, please contact your company counsel, or if you are a member of the Linux Foundation, feel free to contact Andrew Updegrove of the firm of Gesmer Updegrove LLP, which provides legal counsel to the Linux Foundation.
+
+Weekly meeting
+
+Every Thursday at 3:00 to 4:00 PM India Standard Time
+Zoom link: 
+LFX Meetings 
+ 
+LFDT India: Agenda
+
+Discussion:
+
+Blockchain Project Presentation Competition - LFDT India Student Society in association with Saintgits College of Engineering | March 2025 
+Hyperledger Fabric/ Besu Certification tokens sent to the Winner and the 1st runner-up teams by @David Boswell via email, cc to lfdt.india@gmail.com  
+- AYANWORKS' team send the badges to Jury and Finalists
+Post the results on Social platforms from Chapter handle - @A Anasuya Threse Innocent @kamlesh nagware - done
+one more post about the certification to be done
+Crowd fund for LFDT India Chapter - @kamlesh nagware  
+Poster - Completed
+Rebrand event names
+LF Decentralized Trust India TechFest - by LFDT India Chapter - Bangalore - Dec
+LF Decentralized Trust India Innovate - by LFDT India Chapter - Hyderabad - NPCI sponsor - June end/ July first 
+Open source India Summit - 5th Aug | Hyderabad 
+LFDT India Chapter side event - Planning - @kamlesh nagware @Garima Singh to ask Julian
+Next steps - Julian , Kamlesh will ask 
+Hackathon with Goa Govt @Garima Singh 
+David also pointed that less people are joining - now technology is mature and people is now join if they are getting some outcome.
+Invite people to present
+CREDBL - @Ankita Patidar 
+Besu - @Ankita Patidar 
+Fabric - @A Anasuya Threse Innocent 
+Suggested - E-book , sector wise ebook, hackathon, meetups, events. research working groups/Comittee.
+Egovernace ebook - Q1 @A Anasuya Threse Innocent @Amit Chandra @Vikram Sharma @Athil Gafoor
+Mail sent to LFDT
+@Julian Gordon  will be supporting
+Tokenization - Q2 @Garima Singh @kamlesh nagware 
+Digital Identity - Q4 @Ankita Patidar @Athil Gafoor
+India ebook -This is launched!
+Discussed with Julina/David - about publishing white paper | Community interested take ownership
+Journals(Yearly) : asking other people to write on project technical
+LFDT India newsletter monthly - Updates what is happening in India on Blockchain and LFDT projects.
+June/July - Citi Bank hackathon - Fintech Hackathon : Kamlesh -Garima
+Event Planning
+Meetup :
+India e-book launch event (23rd April 2025) - Member summit | keynote, fireside chat with leads and 2-3 panels with members. : April - Done
+Blockchain Innovate( Decentralized AI and Tokenization )  : ? Hyderabad-NPCI | June  @kamlesh nagware @kartikey.dav100| June-July 
+LFDT Hackathon(Decentralized AI and Tokenization) - Big hackathon !!  Start planning ,    | @Garima Singh  @kartikey.dav100| May-Nov
+Blockchain Stories ( Mid year) : Online - Sep   @Ankita Patidar | - Garima, Athil 
+Blockchain Techfest - Dec(India Blockchain week) - Offline @all | Crowdfunding platform | De
+Last weeks
+
+LFDT India Chapter community-india-chapter@lists.lfdecentralizedtrust.org
+
+Welcome to the Hyperledger India Chapter mailing list.  This group is responsible for growing the Hyperledger community in India, promoting contributions to Hyperledger projects and providing a platform for collaboration, mentoring and support. The chapter aims to showcase the broad range of Hyperledger projects and initiatives to the Indian audience.  More about the group and how to take part in the group's activities can be found at:
+https://wiki.hyperledger.org/display/HIRC/Hyperledger+India+Regional+Chapter+Home
+ 
+@A Anasuya Threse Innocent 
+@Vikram Sharma 
+@Athil Gafoor 
+ @Ritu Jain
+ @Garima Singh
+ @karthikey
+ @knagware
+ 
